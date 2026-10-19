@@ -1,5 +1,7 @@
 # AtCoder → GitHub Sync
 
+Moved to https://github.com/Ankita7033/SolveSync
+
 A Chrome/Edge/Brave extension (Manifest V3) that **automatically commits your
 Accepted (AC) AtCoder solutions** to a GitHub repository named `atcoder_solution`.
 
